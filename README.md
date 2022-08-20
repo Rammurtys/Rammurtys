@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ram
 - 👀 I’m interested in building distributed complex, reliable, scaleable backend systems
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang, bit of ruby on rails
 - 💞️ I’m looking to collaborate on any intriguing work. 
 - 📫 
 
